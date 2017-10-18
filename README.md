@@ -1,2 +1,2 @@
 # web-turqhi
-Landingpage adminstrador de pymes
+Landingpage administrador de pymes
